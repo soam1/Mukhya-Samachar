@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "articles": [
+    {
+      "source": {
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Donald Trump due in court to face election 2020 charges - BBC",
+      "description": "The former attorney general undermines Mr Trump's case ahead of his court appearance.",
+      "url": "https://www.bbc.com/news/world-us-canada-66388176",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07E6/production/_130622020_trumpre.jpg",
+      "publishedAt": "2023-08-03T14:44:26Z",
+      "content": "Media caption, Watch: 'This indictment is staggering' - a 90-second explainer\r\nFormer US attorney general Bill Barr has spoken out against Donald Trump ahead of his court appearance for allegedly plo… [+4220 chars]"
+    }
+  ]
+}
+
