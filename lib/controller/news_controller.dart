@@ -27,4 +27,11 @@ class NewsController extends GetxController {
       return Icons.dark_mode;
     }
   }
+
+  int index = 0;
+
+  void changeNavBar({required int currIndex}) {
+    index = currIndex;
+    update();
+  }
 }
