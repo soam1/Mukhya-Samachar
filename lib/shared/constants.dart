@@ -1,16 +1,11 @@
 class CategoryList {
   static List<String> categoryItems = [
-    "Business",
-    "General",
+    "business",
+    "general",
     "health",
-    "market",
-    "regional",
+    "science",
     "sports",
-    "academics",
-    "engineering",
-    "Uttar pradesh",
-    "Himachal Pradesh",
-    "International",
-    "Tourism",
+    "technology",
+    "entertainment"
   ];
 }
